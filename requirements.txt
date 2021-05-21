@@ -37,6 +37,6 @@ sklearn==0.0
 statsmodels==0.12.0.dev0+207.gb2f77d6c7
 tabulate==0.8.7
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==2.5.0
 tensorflow-estimator==1.13.0
 
